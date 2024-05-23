@@ -1,0 +1,5 @@
+outs:
+- md5: d5c7ae163227f9c7b16b0dcbf02f0647
+  size: 15077722
+  hash: md5
+  path: icfes1.csv
